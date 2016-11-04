@@ -1,0 +1,26 @@
+{
+  "name": "rxjssamples",
+  "version": "1.0.0",
+  "description": "netflix movie search",
+  "main": "index.html",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthur2308/FunNetflixSearcher.git"
+  },
+  "keywords": [
+    "netflix"
+  ],
+  "author": "arthur bulan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthur2308/FunNetflixSearcher/issues"
+  },
+  "homepage": "https://github.com/arthur2308/FunNetflixSearcher#readme"
+}
